@@ -1,1 +1,1 @@
-# impulse-win32
+# Impulse<sup>X</sup> Windows
